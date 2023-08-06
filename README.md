@@ -1,4 +1,4 @@
 # wordpresstest
-test duplicator 1
+test gebaedekühlung.de
 
 https://github.com/ellistelkens/wordpresstest.github.io/
